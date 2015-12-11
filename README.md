@@ -10,3 +10,6 @@ Ecco una raccolta di esercizi utili per i programmatori Java alle prime armi. Tu
 - [Animazioni 2D](anim2D.md): programmi che producono delle animazioni 2D a terminale.
 - [Programmi interattivi](interactive.md): programmi interattivi.
 - [Array e matrici](array.md): esercizi sugli array.
+
+
+
