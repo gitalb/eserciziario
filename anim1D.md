@@ -1,4 +1,3 @@
-
 ##Animazioni 1D
 Per produrre delle semplici animazioni (su di una sola riga) si deve:
 
@@ -43,44 +42,23 @@ Purtroppo la console di Netbeans non interpreta correttamente il codice *Carriag
 ###Elica
 Scrivi il programma `Elica` che produce a terminale l'animazione di un elica stilizzata stampando ripetutamente la sequenza di caratteri '|','\','-','/'. Vedi il filmato:
 
-![](img/elica.gif).
+![](img/elica.gif)
 
 ###Bimotore
 Scrivi il programma `Bimotore ` che produce a terminale l'animazione di un aereoplano bimotore stilizzato:
 
-![](img/Bimotore.gif).
+![](img/Bimotore.gif)
 
 ###Domino
 Scrivi il programma `SuperCar ` che produce l'animazione seguente:
 
-![](img/Domino.gif).
+![](img/Domino.gif)
 
 
 ###SuperCar
 Scrivi il programma `SuperCar ` che produce l'animazione seguente:
 
-![](img/SuperCar.gif).
+![](img/SuperCar.gif)
 
 
-SuperCar,Elica,Bimotore,Domino...
-
-##Caratteri
-UnicodeTest
-TraceTable
-Fibonacci, Tetranacci,Multinacci
-Saludos
-Scacchiera
-MatriceCrescente (rigaxriga,col*col,...)
-PoTre
-Orologio
-TrovaMinimo, TrovaMassimo
-Media
-MCD, mcm
-Bisestili
-IMCCalculator
-Farfallino
-GeneratoreNumeriLotto
-Asciizzattore
-
-
-
+###Orologio

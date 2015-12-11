@@ -368,3 +368,7 @@ Per 7:
             * * * * *   
 ~~~
 E via dicendo...
+
+
+
+Scacchiera
