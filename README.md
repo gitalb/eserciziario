@@ -4,6 +4,6 @@ Ecco una raccolta di esercizi utili per i programmatori Java alle prime armi. Tu
 Esercizi:
 
 - [Disegno a terminale](disegni.md).
-- Animazioni 1D
-- Algoritmica
-- Array e matrici
+- [Animazioni 1D](anim1D.md).
+- [Applicazioni interattive](interactive.md).
+- [Array e matrici](array.md).
