@@ -83,19 +83,6 @@ hex:	48	65	6c	6c	6f	20	77	6f	72	6c	64	21
 
 ~~~
 
-E per `®©™┏☂`:
-
-~~~text
-Introdurre un testo:
-®©™┏☂
-
-char:	'®'	'©'	'™'	'┏'	'☂'	
-dec:	174	169	8482	9487	9730	
-hex:	ae	a9	2122	250f	2602
-
-~~~
-
-
 ##Codifica decodifica
 
 ###Farfallinatore
