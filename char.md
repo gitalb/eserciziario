@@ -2,7 +2,7 @@
 
 ##Caratteri
 ###UnicodeTest
-Scrivi il programma `UnicideTest` che stampa a terminale i primi 1000 caratteri unicode partendo dal primo carattere *stampabile* che è il carattere *blank* (' '). Il programma stampa il codice esadecimale e il relativo carattere:
+Scrivi il programma `UnicodeTest` che stampa a terminale i primi 1000 caratteri unicode partendo dal primo carattere *stampabile* che è il carattere *blank* (' '). Il programma stampa il codice esadecimale e il relativo carattere:
 
 ~~~text
 Char: 20 ==> ' '
