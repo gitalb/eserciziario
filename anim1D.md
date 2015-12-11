@@ -43,23 +43,23 @@ Purtroppo la console di Netbeans non interpreta correttamente il codice *Carriag
 ###Elica
 Scrivi il programma `Elica` che produce a terminale l'animazione di un elica stilizzata stampando ripetutamente la sequenza di caratteri '|','\','-','/'. Vedi il filmato:
 
-![](/Users/andreaalbertini/Downloads/animazionitxt/elica.gif).
+![](img/elica.gif).
 
 ###Bimotore
 Scrivi il programma `Bimotore ` che produce a terminale l'animazione di un aereoplano bimotore stilizzato:
 
-![](/Users/andreaalbertini/Downloads/animazionitxt/Bimotore.gif).
+![](img/Bimotore.gif).
 
 ###Domino
 Scrivi il programma `SuperCar ` che produce l'animazione seguente:
 
-![](/Users/andreaalbertini/Downloads/animazionitxt/Domino.gif).
+![](img/Domino.gif).
 
 
 ###SuperCar
 Scrivi il programma `SuperCar ` che produce l'animazione seguente:
 
-![](/Users/andreaalbertini/Downloads/animazionitxt/SuperCar.gif).
+![](img/SuperCar.gif).
 
 
 SuperCar,Elica,Bimotore,Domino...
