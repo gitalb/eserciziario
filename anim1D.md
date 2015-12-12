@@ -30,9 +30,10 @@ while(true){
 
 	//attendi 100 ms
 	try {
-   		Thread.sleep(300);
+   		Thread.sleep(100);
 	} catch (InterruptedException ex) {
 	}
+	//carriage return (torna a inizio riga)
 	System.out.print("\r");
 }
 ~~~
