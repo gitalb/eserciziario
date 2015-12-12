@@ -121,7 +121,7 @@ Per *N* pari a 5 il programma stampa:
 E via dicendo...
 
 ###Triangolo
-Scrivi il programma Java `Triangolo`. Il programma chiede all'utente di introdurre un numero **intero positivo dispari** (*N*) e poi disegna a terminale un triangolo composto di asterischi ('\*') avente la base ad *N*:
+Scrivi il programma Java `Triangolo`. Il programma chiede all'utente di introdurre un numero **intero positivo dispari** (*N*) e poi disegna a terminale un triangolo composto di asterischi ('\*') avente la base di lunghezza pari ad *N*:
 
 Per *N* pari a 3 il programma stampa:
 
