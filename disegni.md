@@ -33,7 +33,7 @@ Scrivi la classe Java `ZigZag`. Tale classe deve utilizzare il carattere '/' (*s
 ~~~
 
 ###Quadrato
-Scrivi il programma Java `Quadrato`. Il programma chiede all'utente di introdurre un numero intero positivo (*N*) e poi disegna a terminale un quadrato *pieno* composto di asterischi ('*') con il lato lungo *N*:
+Scrivi il programma Java `Quadrato`. Il programma chiede all'utente di introdurre un numero intero positivo (*N*) e poi disegna a terminale un quadrato *pieno* composto di asterischi ('\*') con il lato lungo *N*:
 
 Per *N* pari a 3 il programma stampa:
 
