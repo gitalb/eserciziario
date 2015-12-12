@@ -3,7 +3,11 @@
 ###IMCCalculator
 Scrivi la classe `ImcCalculator` che calcola l’*indice di massa corporea* (IMC) dell’utente. L’IMC si calcola secondo la formula seguente:
 
-<math display="block">
+
+![](img/IMC.png)
+
+
+<!--<math display="block">
     <mi>BMI</mi>
     <mo>=</mo>
     <mfrac>
@@ -26,7 +30,7 @@ Scrivi la classe `ImcCalculator` che calcola l’*indice di massa corporea* (IMC
 			</msup>
 	    </mfrac>
 	</mfenced> 
-</math>
+</math>-->
 ￼￼
 Il programma deve richiedere interattivamente all’utente i dati necessari per effettuare il calcolo; prima viene richiesto il nome, poi il peso espresso in kg e poi l’altezza espressa in cm.
 
