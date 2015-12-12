@@ -9,7 +9,7 @@ Per provocare l'attesa necessaria a produrre il *frame rate* desiderato è opssi
 
 ~~~java
 try {
-    Thread.sleep(300);
+    Thread.sleep(100);
 } catch (InterruptedException ex) {
 }
 ~~~
