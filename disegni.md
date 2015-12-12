@@ -77,7 +77,7 @@ Per *N* pari a 5 il programma stampa:
 E via dicendo...
 
 ###TriangoloRettangolo
-Scrivi il programma Java `TriangoloRettangolo`. Il programma chiede all'utente di introdurre un numero intero positivo (*N*) e poi disegna a terminale un quadrato composto di asterischi ('*') con l'altezza pari ad *N*:
+Scrivi il programma Java `TriangoloRettangolo`. Il programma chiede all'utente di introdurre un numero intero positivo (*N*) e poi disegna a terminale un quadrato composto di asterischi ('\*') con l'altezza pari ad *N*:
 
 Per *N* pari a 3 il programma stampa:
 
@@ -121,7 +121,7 @@ Per *N* pari a 5 il programma stampa:
 E via dicendo...
 
 ###Triangolo
-Scrivi il programma Java `Triangolo`. Il programma chiede all'utente di introdurre un numero **intero positivo dispari** (*N*) e poi disegna a terminale un triangolo composto di asterischi ('*') avente la base ad *N*:
+Scrivi il programma Java `Triangolo`. Il programma chiede all'utente di introdurre un numero **intero positivo dispari** (*N*) e poi disegna a terminale un triangolo composto di asterischi ('\*') avente la base ad *N*:
 
 Per *N* pari a 3 il programma stampa:
 
@@ -225,7 +225,7 @@ Per *N* pari a 5 il programma stampa:
 E via dicendo..
 
 ###Merlo
-Scrivi il programma Java `Merlo`. Il programma chiede all'utente di introdurre un numero intero positivo (*N*) e poi disegna a terminale un *merlo* (elemento tipico dell'architettura militare medievale) composto di asterischi ('*') con l'altezza pari ad *N*:
+Scrivi il programma Java `Merlo`. Il programma chiede all'utente di introdurre un numero intero positivo (*N*) e poi disegna a terminale un *merlo* (elemento tipico dell'architettura militare medievale) composto di asterischi ('\*') con l'altezza pari ad *N*:
 
 Per *N* pari a 3 il programma stampa:
 
@@ -245,7 +245,7 @@ Per *N* pari a 4 il programma stampa:
 ~~~
 E via dicendo...
 ###Tridente
-Scrivi il programma Java `Tridente`. Il programma chiede all'utente di introdurre un numero intero positivo (*N*) e poi disegna a terminale un *tridente* composto di asterischi ('*') con l'altezza pari ad *N*:
+Scrivi il programma Java `Tridente`. Il programma chiede all'utente di introdurre un numero intero positivo (*N*) e poi disegna a terminale un *tridente* composto di asterischi ('\*') con l'altezza pari ad *N*:
 
 Per *N* pari a 3 il programma stampa:
 
@@ -277,7 +277,7 @@ Per 5:
 E via dicendo...
 
 ###TridenteSpeculare
-Scrivi il programma Java `TridenteSpeculare `. Il programma chiede all'utente di introdurre un numero intero positivo (*N*) e poi disegna a terminale un *tridente* (riflesso verticalmente) composto di asterischi ('*') con l'altezza pari ad *N*:
+Scrivi il programma Java `TridenteSpeculare `. Il programma chiede all'utente di introdurre un numero intero positivo (*N*) e poi disegna a terminale un *tridente* (riflesso verticalmente) composto di asterischi ('\*') con l'altezza pari ad *N*:
 
 Per *N* pari a 3 il programma stampa:
 
