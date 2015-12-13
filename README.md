@@ -1,5 +1,5 @@
 #Esercizi Java
-Ecco una raccolta di esercizi utili per i programmatori Java alle prime armi. Tutti i programmi qui raccolti sono pensati per essere eseguiti in una shell (Prompt dei comandi, Terminale), ma la maggior parte funzionano correttamente anche nella console di NetBeans.
+Ecco una raccolta di esercizi utili per i programmatori Java alle prime armi. La maggior parte degli esercizi possono funzionare nella console di Netbeans o altri IDE, fanno eccezione le *animazioni 1D* che devono essere eseguite in una shell che interpreti correttamente il carattere *carriage return* (Prompt dei comandi, Terminale) per funzionare correttamente.
 
 ##Categorie esercizi
 
@@ -11,5 +11,7 @@ Ecco una raccolta di esercizi utili per i programmatori Java alle prime armi. Tu
 - [Programmi interattivi](interactive.md): programmi interattivi.
 - [Array e matrici](array.md): esercizi sugli array.
 
+##Altre fonti di esercizi
+Questa raccolta &egrave; solo una delle molteplici risorse disponibili per chi vuole imparare la programmazione. La rete propone moltissimi siti e tool interessanti (ad esempio [CodingBat](http://codingbat.com/java) o [Tutorialspoint](http://www.tutorialspoint.com/compile_java8_online.php)). Basta una ricerca in google per scoprire spunti interessanti. 
 
-
+Un'altra importantissima possibilità sono i progetti personali.
