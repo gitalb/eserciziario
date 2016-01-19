@@ -3,6 +3,8 @@ Ecco una raccolta di esercizi utili per i programmatori Java alle prime armi. La
 
 ##Categorie esercizi
 
+-[Helloworld & Co](base.md): primi esercizi in Java.
+-[Argomenti da linea di comando](args.md): esercizi dedicati all'uso di argomenti da linea di comando.
 - [Caratteri e Unicode](char.md): esercizi sull'utilizzo di caratteri e Unicode.
 - [Matematica e geometria](math.md): esercizi matematici e geometrici. 
 - [Disegno a terminale](disegni.md): programmi che producono dei disegni.
