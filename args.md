@@ -22,7 +22,7 @@ Buongiorno Brambilla Michele!!
 ## HelloAll
 Scrivi il programma `HelloAll` che si comporta nel modo seguente:
 
-- Se non vengono insriti argomenti, stampa a terminale "Ciao a tutti!",
+- Se non vengono inseriti argomenti, stampa a terminale "Ciao a tutti!",
 - Se viene inserito 1 argomento (&lt;nome&gt;), stampa "Ciao &lt;nome&gt;!!",
 - Se vengono inseriti 2 argomenti (&lt;nome&gt; &lt;cognome&gt;), stampa "Buongiorno &lt;cognome&gt; &lt;nome&gt;.
 
