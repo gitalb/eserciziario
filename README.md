@@ -13,6 +13,7 @@ Ecco una raccolta di esercizi utili per i programmatori Java alle prime armi. La
 - [Animazioni 2D](anim2D.md): programmi che producono delle animazioni 2D a terminale.
 - [Programmi interattivi](interactive.md): programmi interattivi.
 - [Array e matrici](array.md): esercizi sugli array.
+- [Metodi](metodi.md): esercizi sui metodi.
 
 ##Altre fonti di esercizi
 Questa raccolta &egrave; solo una delle molteplici risorse disponibili per chi vuole imparare la programmazione. La rete propone moltissimi siti e tool interessanti (ad esempio [CodingBat](http://codingbat.com/java), [Tutorialspoint](http://www.tutorialspoint.com/compile_java8_online.php) o [Programmers Motivation](http://blog.programmersmotivation.com/2014/07/09/list-projects/)). Basta una ricerca in google per scoprire spunti interessanti. 
