@@ -18,7 +18,7 @@ Scrivi un programma che, dato il numero di argomenti da linea di comando (N), st
 Scrivi un programma che, dato il numero di argomenti da linea di comando (N), stampa a terminale: "N è multiplo di 5" oppure "N non è multiplo di 5".
 
 ## Cornice
-Scrivi un programma che scriva a terminale il tuo nome utilizzando i caratteri Unicode della pagina U2500. Esempio:
+Scrivi un programma che scriva a terminale il tuo nome utilizzando i caratteri Unicode della pagina [U2500](http://www.unicode.org/charts/PDF/U2500.pdf). Esempio:
 
 ![](img/cornice.png)
 
