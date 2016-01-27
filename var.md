@@ -22,7 +22,7 @@ Scrivi un programma che scriva a terminale il tuo nome utilizzando i caratteri U
 
 ![](img/cornice.png)
 
-Nota: Su alcune shell i caratteri unicode potrebbe essere rappresentati in modo errato.
+Nota: Su alcune shell i caratteri unicode potrebbero essere rappresentati in modo errato.
 
 ## UnicodePortrait
 Usa i caratteri unicode che preferisci per disegnare il tuo autoritratto. Vedi [unicode.org](http://www.unicode.org/charts/).
