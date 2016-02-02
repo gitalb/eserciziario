@@ -32,11 +32,11 @@ Usa i caratteri unicode che preferisci per disegnare il tuo autoritratto. Vedi [
 Scrivere il programma `MediaNote` che, date 3 variabili `double nota1`, `nota2` e `nota3` (contenenti le note dei 3 test fatti in un semestre) ne calcola la media e la stampa a terminale. L'output del programma deve essere formattato nel modo seguente:
 
 ~~~text
-Nota1:  5,39
-Nota2:  6,15
-Nota3:  4,01
+Nota1:  1,99
+Nota2:  4,69
+Nota3:  4,08
 ------------
-Media:  5,18
+Media:  3,59
 ~~~
 
 
