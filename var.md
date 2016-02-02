@@ -27,3 +27,46 @@ Nota: Su alcune shell i caratteri unicode potrebbero essere rappresentati in mod
 ## UnicodePortrait
 Usa i caratteri unicode che preferisci per disegnare il tuo autoritratto. Vedi [unicode.org](http://www.unicode.org/charts/).
 
+## MediaNote
+
+Scrivere il programma `MediaNote` che, date 3 variabili `double nota1`, `nota2` e `nota3` (contenenti le note dei 3 test fatti in un semestre) ne calcola la media e la stampa a terminale. L'output del programma deve essere formattato nel modo seguente:
+
+~~~text
+Nota1:  5,39
+Nota2:  6,15
+Nota3:  4,01
+------------
+Media:  5,18
+~~~
+
+
+## CalcolaNotaInt
+
+Scrivere un secondo programma chiamato `CalcolaNotaInt` nel quale viene dichiarata la variabile `double media` contenente la media dei 3 test calcolata da `MediaNote` e viene *arrotondata all'intero più vicino*. Ad esempio 5.4 viene approssimato a 5, mentre 5.6 viene approssimato a 6.
+
+## CalcolaNota
+
+Scrivere un secondo programma chiamato `CalcolaNota` nel quale viene dichiarata la variabile `double media` contenente la media dei 3 test calcolata da `MediaNote` e viene *arrotondata mezzo punto più vicino*. Ad esempio 5.4 viene approssimato a 5.5, mentre 5.77 viene approssimato a 6.
+
+## Da frazionale ad anglosassone
+
+Scrivi un programma nel quale vengono dichiarate due variabili `int divisore` e `dividendo`. Il programma deve poi stampare a schermo il valore della frazione in formato anglosassone. Ad esempio per `divisore = 2` e `dividendo = 1` il programma stampa 0.5.
+
+## CPUScooter
+
+Scrivi un programma nel quale devono essere dichiarate le seguenti variabili:
+
+- velocità (Range: [0; 80])
+- livello carburante (Range: [0; 1023])
+- spiaGuastoMotore (Range: [ON; OFF])
+- giriMotore (Range: [0.0; 0.99])
+
+Dichiara le variabili scegliendo il tipo di dato più appropriato per ognuna e poi il calcola quanto spazio occupano in memoria.
+
+## DecUni
+
+Scrivi un programma che, dato il numero di argomenti da linea di comando (N), stampa a terminale quante *decine* e *quante* unità compongono N.
+
+## TroncaDouble
+
+Scrivi un programma data la variabile `double n`, ne stampa a terminale il valore *troncato* a 3 cifre decimali.
