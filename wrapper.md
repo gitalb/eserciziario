@@ -1,5 +1,121 @@
 #Wrapper
 
+## PariDispari
+Scrivi la classe `PariDispari` che valuta il valore intero passato come argomento da linea di comando e, se il valore è pari stampa "PARI", altrimenti stampa "DISPARI". Qualche esempio:
+
+~~~bash
+$ java PariDispari 3
+DISPARI
+~~~
+
+~~~bash
+$ java PariDispari 6
+PARI
+~~~
+
+~~~bash
+$ java PariDispari 8
+PARI
+~~~
+
+
+Se non vengono passati argomenti il programma termina:
+
+~~~bash
+$ java PariDispari
+$
+~~~
+
+
+## Hex2Dec
+Scrivi la classe `Hex2Dec` che converte in decimale il valore passato come argomento da linea di comando in formato esadecimale. Esempio:
+
+~~~bash
+$ java Hex2Dec A
+10
+~~~
+
+~~~bash
+$ java Hex2Dec FF
+255
+~~~
+
+~~~bash
+$ java Hex2Dec 10
+16
+~~~
+
+Se non vengono passati argomenti il programma termina:
+
+~~~bash
+$ java Hex2Dec
+$
+~~~
+
+## Dec2Hex
+Scrivi la classe `Dec2Hex` che converte in esadecimale il valore passato come argomento da linea di comando. Esempio:
+
+~~~bash
+$ java Dec2Hex 10
+a
+~~~
+
+~~~bash                                                                                                               
+$ java Dec2Hex 255
+ff
+~~~
+
+Se non vengono passati argomenti il programma termina:
+
+~~~bash
+$ java Dec2Hex
+$
+~~~
+
+## SumArgs
+
+Scrivi la classe `SumArgs` che stampa a terminale la somma dei due valori interi passati come argomenti da linea di comando. Esempio:
+
+~~~bash
+$ java SumArgs 1 5
+1 + 5 = 6
+~~~
+
+Se l'utente non inserisce uno o entrambi gli argomenti, i valori omessi vengono considerati come 0 nel calcolo della somma. Ad esempio:
+
+~~~bash
+$ java SumArgs 2
+2 + 0 = 2
+~~~
+
+Oppure:
+
+~~~bash
+$ java SumArgs
+0 + 0 = 0
+~~~
+
+## SumArgsHex
+
+Scrivi la classe `SumArgsHex` che stampa a terminale la somma dei due valori interi passati come argomenti da linea di comando in formato esadecimale. Esempio:
+
+~~~bash
+$ java SumArgsHex 5 5
+5 + 5 = a
+~~~
+
+~~~bash
+$ java SumArgsHex A 5
+a + 5 = f
+~~~
+
+~~~bash
+$ java SumArgsHex FF FF
+ff + ff = 1fe
+~~~
+
+# Programmi interattivi
+
 ## HexSum
 
 Scrivi il programma `HexSum` che chiede all'utente di inserire due valori interi espressi in notazione **esadecimale** e poi ne stampa (sempre in base 16) il risultato della somma. Qualche esempio:
