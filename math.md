@@ -1,12 +1,26 @@
 #Matematici e geometrici
 
 ##Matematica e numerica
+
+### ElevazioneAPotenza
+
+Scrivi il programma Java `ElevazioneAPotenza ` che calcola l'elevazione a potenza del valore intero passato come primo argomento per il secondo argomento intero.
+
+Esempio:
+
+
+~~~text
+$ java ElevazioneAPotenza 2 3 
+2 ^ 3 = 8
+~~~
+
 ###PoTre
 Scrivi il metodo `int pow3(int n)` che riceve un valore intero `n` e ritorna il valore di 3 elevato `n`. La classe che scriverai dovr&aacute; anche contenere un metodo `main` in cui verificare se il metodo `pow3` funziona correttamente.###MCD
 Scrivi il metodo `int mcd(int a, int b)` che calcola il *massimo comun divisore* ([wiki](https://it.wikipedia.org/wiki/Massimo_comun_divisore)) dei due parametri `a` e `b`.
 
 ###mcm
 Scrivi il metodo `int mcm(int a, int b)` che calcola il *minimo comune multiplo* ([wiki](https://it.wikipedia.org/wiki/Minimo_comune_multiplo)) dei due parametri `a` e `b`.
+
 
 
 ##Sequenze
