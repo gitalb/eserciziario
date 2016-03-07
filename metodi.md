@@ -15,8 +15,6 @@ Scrivi il metodo:
 Tale metodo ritorna un numero che rappresenta l' area di un triangolo di base `b` e di altezza `h`.
 
 
-
-
 ## trenino()
 Scrivi la classe Trenino che contiene i seguenti metodi:
 
@@ -45,6 +43,7 @@ Richiama i metodi in maniera da comporre un treno utilizzando a piacimento i vag
   M   M
   M   M
   MMMMM
+
 
 ## MCD()
 Scrivi il metodo:
