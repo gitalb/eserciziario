@@ -1,13 +1,13 @@
 # Metodi
 
-## circonferenza()
+## circonferenza
 Scrivi il metodo:
 
 `public static double calcolaCirconferenza(double raggio)`
 
 Tale metodo ritorna un numero che rappresenta la circonferenza di un cerchio di raggio `raggio`.
 
-## areaTriangolo()
+## areaTriangolo
 Scrivi il metodo:
 
 `public static double calcolaAreaTriangolo(double base, double altezza)`
@@ -15,15 +15,51 @@ Scrivi il metodo:
 Tale metodo ritorna un numero che rappresenta l' area di un triangolo di base `base` e di altezza `altezza`.
 
 
+## Trenino
+Scrivi la classe Trenino che contiene i seguenti metodi:
 
-## MCD()
+`public static void stampaLocomotiva()`
+
+`public static void stampaPasseggeriPiccolo()`
+
+`public static void stampaPasseggeriGrande()`
+
+`public static void stampaMerciPiccolo()`
+
+`public static void stampaMerciGrande()`
+
+`public static void stampaGancio()`
+
+Richiama i metodi in maniera da comporre un treno utilizzando a piacimento i vagoni creati tramite i metodi, come ad esempio (Locomotiva, PasseggeriPiccolo, MerciGrande):
+
+```
+
+   /T\
+  /|||\
+  | O |
+  LLLLL
+  LLLLL
+    |
+  PPPPP
+  P   P
+  PPPPP
+    |
+  MMMMM
+  M   M
+  M   M
+  M   M
+  MMMMM
+  
+```
+
+## MCD
 Scrivi il metodo:
 
 `public static int calcolaMCD(int a, int b)`
 
 Tale metodo ci permetterà di calcolare il Massimo comun divisore di 2 numeri. ([Wiki: MCD](https://it.wikipedia.org/wiki/Massimo_comun_divisore))
 
-## mcm()
+## mcm
 Scrivi il metodo:
 
 `public static int calcolaMcm(int a, int b)`
@@ -32,7 +68,7 @@ Tale metodo ci permetterà di calcolare il minimo comune multiplo di 2 numeri. (
 
 
 
-## calcola()
+## calcolatrice
 Scrivi il metodo:
 
 `public static int calcola(int a, int b, char operatore)`
@@ -41,7 +77,7 @@ Tale esegue un'operazione matematica di base sui due numeri `a` e `b`. Il valore
 
 
 
-## repeat()
+## repeat
 Scrivi il metodo:
 
 `public static String repeat(String text, int times)`
@@ -62,25 +98,3 @@ Ora utilizza il metodo `repeat` per produrre il disegno seguente:
 ~~~
 
 Quante righe di codice hai scritto? Una dovrebbe bastare...
-
-<!--
-
-## trenino()
-Scrivi la classe Serpente che contiene i seguenti metodi:
-
-`public static String stampaTesta()`
-`public static String stampaCorpo()`
-`public static String stampaCoda()`
-
-Richiama i metodi in maniera da
-
-
-   /\
-  /  \
-  |  |
-  ¦  ¦
- |    |
- ______
-
-
--->
