@@ -19,14 +19,20 @@ Tale metodo ritorna un numero che rappresenta l' area di un triangolo di base `b
 Scrivi la classe Trenino che contiene i seguenti metodi:
 
 `public static void stampaLocomotiva()`
+
 `public static void stampaPasseggeriPiccolo()`
+
 `public static void stampaPasseggeriGrande()`
+
 `public static void stampaMerciPiccolo()`
+
 `public static void stampaMerciGrande()`
+
 `public static void stampaGancio()`
 
 Richiama i metodi in maniera da comporre un treno utilizzando a piacimento i vagoni creati tramite i metodi, come ad esempio (Locomotiva, PasseggeriPiccolo, MerciGrande):
 
+```
 
    /T\
   /|||\
@@ -43,7 +49,8 @@ Richiama i metodi in maniera da comporre un treno utilizzando a piacimento i vag
   M   M
   M   M
   MMMMM
-
+  
+```
 
 ## MCD()
 Scrivi il metodo:
