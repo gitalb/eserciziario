@@ -98,3 +98,33 @@ Ora utilizza il metodo `repeat` per produrre il disegno seguente:
 ~~~
 
 Quante righe di codice hai scritto? Una dovrebbe bastare...
+
+## longest
+
+Scrivi il metodo:
+
+`public static String longest(String a, String b)`
+
+che ritorna la stringa più lunga tra `a`, `b`.
+
+Ad esempio `longest("cane","gatto")` ritorna la stringa `gatto`, mentre `longest("abcdef","gatto")` ritorna `abcdef`.
+
+## alternate
+
+Scrivi il metodo:
+
+`public static String alternate(String a, String b, int times)`
+
+Il metodo ritorna una stringa di testo contenente le stringhe `a` e `b` alternate `times` volte. Ad esempio `alternate("*","-",5)` ritorna la stringa `*-*-*-*-*-`, mentre `alternate("va","Ja",2)` ritorna la stringa `vaJavaJa`.
+
+
+## concatenate
+
+Scrivi il metodo:
+
+`public static String concatenate(int a, int b, int c, char separator, char terminator)`
+
+che ritorna una stringa contenente l'elenco dei valori dei parametri `a`, `b` e `c`. I valori sono separati dal carattere `separator` e la lista è terminata dal carattere `terminator`.
+
+Ad esempio `concatenate(1,2,3,';','.')` ritorna la stringa `1;2;3.`, mentre `concatenate(10,20,30,'_','!')` ritorna la stringa `10_20_30!`.
+
