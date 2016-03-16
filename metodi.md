@@ -49,7 +49,7 @@ Richiama i metodi in maniera da comporre un treno utilizzando a piacimento i vag
   M   M
   M   M
   MMMMM
-  
+
 ```
 
 ## MCD
@@ -128,3 +128,29 @@ che ritorna una stringa contenente l'elenco dei valori dei parametri `a`, `b` e 
 
 Ad esempio `concatenate(1,2,3,';','.')` ritorna la stringa `1;2;3.`, mentre `concatenate(10,20,30,'_','!')` ritorna la stringa `10_20_30!`.
 
+
+## frame
+
+Scrivi il metodo:
+
+`public static String frame(String name, char c, int width)`
+
+che ritorna una stringa contenente la stringa `name` incorniciata nel carattere `c` utilizzato con uno spessore `width`.
+
+Ad esempio `frame("Piero",'*',2)` ritorna la stringa:
+
+```
+*********
+*********
+**Piero**
+*********
+*********
+```
+
+
+ mentre `frame("Andrea",'$',1)` ritorna la stringa:
+ ```
+ $$$$$$$$
+ $Andrea$
+ $$$$$$$$
+ ```
