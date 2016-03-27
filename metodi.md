@@ -128,3 +128,48 @@ che ritorna una stringa contenente l'elenco dei valori dei parametri `a`, `b` e 
 
 Ad esempio `concatenate(1,2,3,';','.')` ritorna la stringa `1;2;3.`, mentre `concatenate(10,20,30,'_','!')` ritorna la stringa `10_20_30!`.
 
+boolean crescenti(int a, int b, int c)
+Ritorna true se a, b e c sono ordinati dal più piccolo al più grande.
+
+##toLower 
+Scrivi il metodo `char toLower(char c)` che, se `c` è un carattere alfabetico maiuscolo, ritorna il corrispondente carattere minuscolo. Altrimenti ritorna c. 
+
+Ad esempio:
+
+- `toLower('A')` ritorna `'a'` 
+- `toLower('b')` ritorna `'b'`
+- `toLower(';')` ritorna `';'`
+
+## sortCharacters
+
+Implementa il metodo `String sortCharacters(char a, char b, char c)` che ritorna una stringa contenente i caratteri `a`, `b` e `c` disposti in ordine alfabetico e separati da una virgola. Nell'ordinamento, il caso dei caratteri alfabetici deve essere ignorato (`'a'` e `'A'`, hanno lo stesso ordine). Qualche esempio:
+
+- `sortCharacters('c','A','b')` ritorna la stringa `"A,b,c"`,
+- `sortCharacters('M','m','G')` ritorna la stringa `"G,M,m"`.
+
+## blackjackWinner
+
+Nel Blackjack vince il giocatore che totalizza un punteggio che sia il più vicino possibile, ma non superi, il valore 21. Scrivi il metodo `int blackjackWinner(int score1, int score2)`che, dati due punteggi (nel range [1, 21]) `score1` e `score2`, ritorna un numero intero secondo le seguenti regole:
+
+- in caso di pareggio, ritorna `0`
+- se vince `score1` ritorna `1`
+- se vince `score2` ritorna `2`
+
+
+## sommaUnivoca
+
+Scrivi il metodo:
+
+`int sommaUnivoca(int a, int b, int c)`
+
+Tale metodo ritorna la somma di `a`, `b` e `c` ma i valori duplicati vengono tralasciati nel calcolo del totale. Ad esempio `sommaUnivoca(1,2,3)` ritorna `6` mentre `sommaUnivoca(1,2,1)` ritorna `3`.
+
+# sommaTonda
+
+Scrivi il metodo `int sommaTonda(int a, int b, int c)` che ritorna la somma di `a`, `b` e `c` arrotondata al multiplo di 10 più vicino.
+
+## getDigits
+Scrivi il metodo `int getDigits(int n)` che ritorna il numero digits (cifre) necessario per la rappresentazione decimale di `n`. Ad esempio `getDigits(11)` ritorna `2` mentre `getDigits(12435)` ritorna `5`.
+
+
+
