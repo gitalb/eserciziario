@@ -49,7 +49,7 @@ Richiama i metodi in maniera da comporre un treno utilizzando a piacimento i vag
   M   M
   M   M
   MMMMM
-  
+
 ```
 
 ## MCD
@@ -128,8 +128,35 @@ che ritorna una stringa contenente l'elenco dei valori dei parametri `a`, `b` e 
 
 Ad esempio `concatenate(1,2,3,';','.')` ritorna la stringa `1;2;3.`, mentre `concatenate(10,20,30,'_','!')` ritorna la stringa `10_20_30!`.
 
-boolean crescenti(int a, int b, int c)
-Ritorna true se a, b e c sono ordinati dal più piccolo al più grande.
+## isSorted
+Scrivi il metodo `boolean isSorted(int a, int b, int c)` che ritorna `true` se `a`, `b` e `c` sono ordinati dal più piccolo al più grande. Ad esempio `isSorted(1,2,3)` ritorna `true` mentre `isSorted(1,3,2)` ritorna `false`. 
+
+## frameName
+
+Scrivi il metodo:
+
+`String frameName(String name, char c, int width)`
+
+che ritorna una stringa contenente la stringa `name` incorniciata nel carattere `c` utilizzato con uno spessore `width`.
+
+Ad esempio `frameName("Piero",'*',2)` ritorna la stringa:
+
+~~~text
+*********
+*********
+**Piero**
+*********
+*********
+~~~
+
+
+mentre `frameName("Andrea",'$',1)` ritorna la stringa:
+
+~~~text
+ $$$$$$$$
+ $Andrea$
+ $$$$$$$$
+~~~
 
 ##toLower 
 Scrivi il metodo `char toLower(char c)` che, se `c` è un carattere alfabetico maiuscolo, ritorna il corrispondente carattere minuscolo. Altrimenti ritorna c. 
@@ -164,12 +191,11 @@ Scrivi il metodo:
 
 Tale metodo ritorna la somma di `a`, `b` e `c` ma i valori duplicati vengono tralasciati nel calcolo del totale. Ad esempio `sommaUnivoca(1,2,3)` ritorna `6` mentre `sommaUnivoca(1,2,1)` ritorna `3`.
 
-# sommaTonda
+## sommaTonda
 
 Scrivi il metodo `int sommaTonda(int a, int b, int c)` che ritorna la somma di `a`, `b` e `c` arrotondata al multiplo di 10 più vicino.
 
 ## getDigits
 Scrivi il metodo `int getDigits(int n)` che ritorna il numero digits (cifre) necessario per la rappresentazione decimale di `n`. Ad esempio `getDigits(11)` ritorna `2` mentre `getDigits(12435)` ritorna `5`.
-
 
 
