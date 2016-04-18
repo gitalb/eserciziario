@@ -100,7 +100,6 @@ La codifica permetterà di modificare la stringa passata aggiungendo ad ogni sil
 
 La decodifica servirà per effettuare l'operazione contraria.
 
-
 ## Cifrario di Cesare
 
 Da Wikipedia:
@@ -114,6 +113,7 @@ Ad esempio, applicando la chiave 3: `'a'` diventa `'d'`, `'b'` diventa `'e'`, `'
 Carattere originale  |`'a'`|`'b'`|`'c'`|`'d'`|`'e'`|...|`'x'`|`'y'`|`'z'`|
 ---------------------|-----|-----|-----|-----|-----|---|-----|-----|-----|
 Codifica con chiave 3|`'d'`|`'e'`|`'f'`|`'g'`|`'h'`|...|`'a'`|`'b'`|`'c'`|
+
 
 Applicando invece la chiave 5 `'a'` diventa `'f'`, `'b'` diventa `'g'`... eccetera:
 
