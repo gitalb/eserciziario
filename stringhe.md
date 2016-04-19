@@ -5,71 +5,74 @@ Scrivi il metodo:
 
 `public static String getLongest(String firstString, String secondString, String thirdString)`
 
-Tale metodo ritorna la stringa più lunga tra `firstString`, `secondString` e `thirdString`.
-
-## isLetter
-Scrivi il metodo:
-
-`public static boolean isLetter(char c)`
-
-Tale metodo ritorna `true` se il carattere `c` è una lettera, mentre ritorna `false` In caso contrario.
-
-## isConsonant
-Scrivi il metodo:
-
-`public static boolean isConsonant(char c)`
-
-Tale metodo ritorna `true` se il carattere `c` è una consonante, `false` altrimenti.
-
-## isVowel
-Scrivi il metodo:
-
-`public static boolean isVowel(char c)`
-
-Tale metodo ritorna `true` se `c` è una vocale, mentre ritorna `false` in tutti gli altri casi.
-
-## countVowels
-Scrivi il metodo:
-
-`public static int countVowels(String text)`
-
-Tale metodo ritorna il numero di vocali presenti nella stringa `text`.
-
-## countConsonants
-Scrivi il metodo:
-
-`public static int countConsonants(String text)`
-
-Tale metodo ritorna il numero di consonanti presenti nella stringa `text`.
-
-
-## isAlternative
-Scrivi il metodo:
-
-`public static boolean isAlternative(String s)`
-
-Tale metodo ritorna true se la stringa `s` contiene consonanti e vocali alternate (es. patata o cane).
+Tale metodo ritorna la stringa più lunga tra `firstString`, `secondString` e `thirdString`. Ad esempio `getLongest("lungo", "cortissimo", "corto")` ritorna `"cortissimo"`.
 
 ## countDoubles
 Scrivi il metodo:
 
 `public static int countDoubles(String text)`
 
-Tale metodo ritorna il numero di lettere doppie all'interno della stringa `text` (es. tutti->1, tuttti->2).
+Tale metodo ritorna il numero di lettere doppie all'interno della stringa `text` (es. `countDoubles("tutti")` ritorna 1, `countDoubles("tuttti")` ritorna 2).
 
-## vowelize
+## charCoaster
+Scrivi il metodo:
+
+`public static String charCoaster(String text)`
+
+Tale metodo ritorna la stringa `text` trasformata alternando il caso dei caratteri (es. `charCoaster("casa")` ritorna `"cAsA"`, `charCoaster("ottovolante")` ritorna la stringa `"oTtOvOlAnTe"`).
+
+## Phoneticyzer
+
+Scrivi la classe `Phoneticyzer` contenente i metodi desctitti in seguito:
+
+### isLetter
+Scrivi il metodo:
+
+`public static boolean isLetter(char c)`
+
+Tale metodo ritorna `true` se il carattere `c` è una lettera, mentre ritorna `false` In caso contrario.
+
+### isConsonant
+Scrivi il metodo:
+
+`public static boolean isConsonant(char c)`
+
+Tale metodo ritorna `true` se il carattere `c` è una consonante, `false` altrimenti.
+
+### isVowel
+Scrivi il metodo:
+
+`public static boolean isVowel(char c)`
+
+Tale metodo ritorna `true` se `c` è una vocale, mentre ritorna `false` in tutti gli altri casi.
+
+### countVowels
+Scrivi il metodo:
+
+`public static int countVowels(String text)`
+
+Tale metodo ritorna il numero di vocali presenti nella stringa `text`.
+
+### countConsonants
+Scrivi il metodo:
+
+`public static int countConsonants(String text)`
+
+Tale metodo ritorna il numero di consonanti presenti nella stringa `text`.
+
+### vowelize
 Scrivi il metodo:
 
 `public static String vowelize(String text)`
 
 Tale metodo ritorna una stringa contenente solamente le vocali della stringa `text` (es. casa->aa, purtroppo->uoo).
 
-## camelize
+### isAlternative
 Scrivi il metodo:
 
-`public static String camelize(String text)`
+`public static boolean isAlternative(String s)`
 
-Tale metodo ritorna la stringa `text`formattata in stile camelCase (es. casa->CaSa, cuculo->CuCuLo).
+Tale metodo ritorna true se la stringa `s` contiene consonanti e vocali alternate (es. patata o cane).
 
 ## isAnagram
 Scrivi il metodo:
