@@ -5,7 +5,7 @@ Scrivi il metodo:
 
 `public static String getLongest(String firstString, String secondString, String thirdString)`
 
-Tale metodo ritorna la stringa più lunga tra `firstString`, `secondString` e `thirdString’.
+Tale metodo ritorna la stringa più lunga tra `firstString`, `secondString` e `thirdString`.
 
 ## isLetter
 Scrivi il metodo:
