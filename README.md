@@ -17,7 +17,7 @@ Ecco una raccolta di esercizi utili per i programmatori Java alle prime armi. La
 - [Programmi interattivi](interactive.md): programmi interattivi.
 - [Array e matrici](array.md): esercizi sugli array.
 - [Metodi](metodi.md): esercizi sui metodi.
-- [String](String.md): esercizi all'uso della classe `String`.
+- [String](stringhe.md): esercizi all'uso della classe `String`.
 
 
 ##Altre fonti di esercizi
