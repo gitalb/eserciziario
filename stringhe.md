@@ -51,35 +51,35 @@ Scrivi il metodo:
 
 `public static int countVowels(String text)`
 
-Tale metodo ritorna il numero di vocali presenti nella stringa `text`.
+Tale metodo ritorna il numero di vocali presenti nella stringa `text`. Ad esempio `countVowels("NOOOOOO")` ritorna 6.
 
 ### countConsonants
 Scrivi il metodo:
 
 `public static int countConsonants(String text)`
 
-Tale metodo ritorna il numero di consonanti presenti nella stringa `text`.
+Tale metodo ritorna il numero di consonanti presenti nella stringa `text`. Ad esempio `countConsonants("NOOOOOO")` ritorna 1.
 
 ### vowelize
 Scrivi il metodo:
 
 `public static String vowelize(String text)`
 
-Tale metodo ritorna una stringa contenente solamente le vocali della stringa `text` (es. casa->aa, purtroppo->uoo).
+Tale metodo ritorna una stringa contenente solamente le vocali della stringa `text`. Ad esempio `vowelize("casa")` ritorna `"aa"`, mentre `vowelize("lunotto")` ritorna `"uoo"`.
 
 ### isAlternative
 Scrivi il metodo:
 
 `public static boolean isAlternative(String s)`
 
-Tale metodo ritorna true se la stringa `s` contiene consonanti e vocali alternate (es. patata o cane).
+Tale metodo ritorna true se la stringa `s` contiene consonanti e vocali alternate (es. `isAlternative("patata")` ritorna `true`).
 
 ## isAnagram
 Scrivi il metodo:
 
 `public static boolean isAnagram(String firstWord, String secondWord)`
 
-Tale metodo ritorna `true` se `firstWord` è un anagramma di `secondWord` e viceversa; altrimenti ritorna false.
+Tale metodo ritorna `true` se `firstWord` è un anagramma di `secondWord`, altrimenti ritorna `false`. Esempio `isAnagram("calendario","locandiera")` ritorna `true`.
 
 ## countInString
 Scrivi il metodo:
