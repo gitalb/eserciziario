@@ -17,6 +17,8 @@ Ecco una raccolta di esercizi utili per i programmatori Java alle prime armi. La
 - [Programmi interattivi](interactive.md): programmi interattivi.
 - [Array e matrici](array.md): esercizi sugli array.
 - [Metodi](metodi.md): esercizi sui metodi.
+- [String](String.md): esercizi all'uso della classe `String`.
+
 
 ##Altre fonti di esercizi
 Questa raccolta &egrave; solo una delle molteplici risorse disponibili per chi vuole imparare la programmazione. La rete propone moltissimi siti e tool interessanti (ad esempio [CodingBat](http://codingbat.com/java), [Tutorialspoint](http://www.tutorialspoint.com/compile_java8_online.php) o [Programmers Motivation](http://blog.programmersmotivation.com/2014/07/09/list-projects/)). Basta una ricerca in google per scoprire spunti interessanti. 
