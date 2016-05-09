@@ -23,7 +23,7 @@ Bravo!
 ~~~
 
 
-###IMCCalculator
+##IMCCalculator
 Scrivi la classe `ImcCalculator` che calcola l’*indice di massa corporea* (IMC) dell’utente. L’IMC si calcola secondo la formula seguente:
 
 
