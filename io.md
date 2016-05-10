@@ -11,7 +11,7 @@ Buongiorno Luca, bentornato!
 ~~~
 
 ## ScegliNumero
-Scrivi il programma `ScegliNumero` che, una volta avviato, chieda all'utente di inserire un numero compreso tra due interi positivi passati da line di comando. Il programma continuerà a chiedere un numero finchè l'utente non immetterà un valore compreso tra i due numeri interi passati in precedenza.
+Scrivi il programma `ScegliNumero` che chiede all'utente di inserire un numero compreso tra i due interi positivi passati come argomenti da linea di comando. Il programma continuerà a chiedere un numero finchè l'utente non immetterà un valore accettabile.
 
 ~~~text
 java ScegliNumero 1 10
@@ -68,7 +68,7 @@ Questo programma calcola il tuo indice di massa corporea (IMC).
 PREMI ENTER PER CONTINUARE...
 
 Inserisci il tuo peso in kg (min: 40.0kg - max: 130.0kg): 20
-Il peso deve essere compresto tra 40.0 e 130.0 kg, riprova.
+Il peso deve essere compreso tra 40.0 e 130.0 kg, riprova.
 Inserisci il tuo peso in kg (min: 40.0kg - max: 130.0kg): 78
 Inserisci la tua altezza in cm (min: 140.0cm - max: 200.0cm): 350
 l'altezza deve essere compresa tra 140.0 e 200.0 cm, riprova.
