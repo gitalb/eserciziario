@@ -1,6 +1,27 @@
 #Array e matrici
 
+
+
 ##Array monodimensionali
+
+###Int2Day
+Scrivi il programma `Int2Day` che riceve un intero come argomento da linea di comando e stampa il nome del giorno della settimana corrispondente, secondo l'associazione definita nella tabella seguente:
+
+| **numero**         | **elemento**       |
+|:--------------:|:--------------:|
+|`1`               | `"lunedì"`       |
+|`2`               | `"martedì"`      |
+|`3`               | `"mercoledì"`    |
+|`4`               | `"giovedì"`      |
+|`5`               | `"venerdì"`      |
+|`6`               | `"sabato"`       |
+|`7`               | `"domenica"`     |
+
+Per argomenti non appropriati o al di fuori dell'intervallo consentito, il programma stampa `"Valore non valido."`.
+
+
+
+
 ###TrovaMinimo
 Scrivi un programma che:
 
