@@ -286,11 +286,11 @@ Il programma deve funzionare correttamente anche per matrici rettangolari. Esemp
 Inserire numero di righe: 7
 Inserire numero di colonne: 2
 
-0	2	
-1	3	
-2	4	
-3	5	
-4	6	
-5	7	
-6	8		
+0	7	
+1	8	
+2	9	
+3	10	
+4	11	
+5	12	
+6	13		
 ~~~
