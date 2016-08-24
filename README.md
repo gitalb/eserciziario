@@ -26,5 +26,3 @@ Ecco una raccolta di esercizi utili per i programmatori Java alle prime armi. La
 Questa raccolta &egrave; solo una delle molteplici risorse disponibili per chi vuole imparare la programmazione. La rete propone moltissimi siti e tool interessanti (ad esempio [CodingBat](http://codingbat.com/java), [Tutorialspoint](http://www.tutorialspoint.com/compile_java8_online.php) o [Programmers Motivation](http://blog.programmersmotivation.com/2014/07/09/list-projects/)). Basta una ricerca in google per scoprire spunti interessanti.
 
 Un'altra importantissima possibilità sono i progetti personali...
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/gitalb/eserciziario/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
