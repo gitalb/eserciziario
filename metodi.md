@@ -68,20 +68,11 @@ Ad esempio l'invocazione `calcola(5,2,'+')` ritornerà `7` (`5+2`) mentre l'invo
 
 ## `StringTool`
 
-Scrivi la classe `StringTool` contenente i metodo seguenti:
+Scrivi la classe `StringTool` contenente i metodi seguenti:
 
 - `public static String longest(String a, String b)`: ritorna la stringa più lunga tra `a`, `b`. Ad esempio `longest("cane","gatto")` ritorna la stringa `gatto`, mentre `longest("abcdef","gatto")` ritorna `abcdef`.
 - `public static String alternate(String a, String b, int times)`: ritorna una stringa di testo contenente le stringhe `a` e `b` alternate `times` volte. Ad esempio `alternate("*","-",5)` ritorna la stringa `*-*-*-*-*-`, mentre `alternate("va","Ja",2)` ritorna la stringa `vaJavaJa`.
 - `public static String concatenate(int a, int b, int c, char separator, char terminator)`: ritorna una stringa contenente l'elenco dei valori dei parametri `a`, `b` e `c`. I valori sono separati dal carattere `separator` e la lista è terminata dal carattere `terminator`. Ad esempio `concatenate(1,2,3,';','.')` ritorna la stringa `1;2;3.`, mentre `concatenate(10,20,30,'_','!')` ritorna la stringa `10_20_30!`.
-
-## `StringTool`
-
-Scrivi la classe `StringTool` contenente i metodo seguenti:
-
-- `public static String longest(String a, String b)`: ritorna la stringa più lunga tra `a`, `b`. Ad esempio `longest("cane","gatto")` ritorna la stringa `gatto`, mentre `longest("abcdef","gatto")` ritorna `abcdef`.
-- `public static String alternate(String a, String b, int times)`: ritorna una stringa di testo contenente le stringhe `a` e `b` alternate `times` volte. Ad esempio `alternate("*","-",5)` ritorna la stringa `*-*-*-*-*-`, mentre `alternate("va","Ja",2)` ritorna la stringa `vaJavaJa`.
-- `public static String concatenate(int a, int b, int c, char separator, char terminator)`: ritorna una stringa contenente l'elenco dei valori dei parametri `a`, `b` e `c`. I valori sono separati dal carattere `separator` e la lista è terminata dal carattere `terminator`. Ad esempio `concatenate(1,2,3,';','.')` ritorna la stringa `1;2;3.`, mentre `concatenate(10,20,30,'_','!')` ritorna la stringa `10_20_30!`.
-
 
 ## `Repeater`
 Scrivi la classe `Repeater ` contenente il metodo:
