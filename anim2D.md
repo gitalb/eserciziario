@@ -1,1 +1,0 @@
-#Animazioni 2D
